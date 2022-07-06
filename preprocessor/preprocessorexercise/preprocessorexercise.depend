@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1564627327 source:d:\work\code blocks\preprocessor\preprocessorexercise\main.c
+	"main.h"
+
+1563377394 d:\work\code blocks\preprocessor\preprocessorexercise\main.h
+	<stdio.h>
+
