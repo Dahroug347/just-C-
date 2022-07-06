@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563201275 source:d:\work\code blocks\sequencesum\main.c
+	<stdio.h>
+	<stdlib.h>
+
