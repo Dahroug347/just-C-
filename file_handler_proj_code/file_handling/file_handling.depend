@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616656656 source:c:\users\mahmo\desktop\file_handler_proj_code\file_handling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
